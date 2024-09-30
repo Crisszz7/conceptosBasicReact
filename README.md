@@ -17,7 +17,7 @@ Pregunta 3:
 
 //Los childrens props son un objeto que contiene los elementos que envuelve un componente. El uso excesivo de children props no es recomendable por su poca legilidad y mantenimiento a largo plazo
 
-Pregunta 5:
+Pregunta 4:
 ¿Qué es useState en React y para qué se utiliza principalmente?
 
 //El estado es un objeto que contiene datos que pueden cambiar en el tiempo. su funcion principal es para manjar los estados de un componente
